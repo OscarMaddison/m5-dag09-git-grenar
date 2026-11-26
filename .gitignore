@@ -1,0 +1,4 @@
+.env    
+*.log
+node_modules/
+##.env får inte visas eftersom den innehåller säkerhetsdetaljer
