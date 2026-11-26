@@ -60,7 +60,8 @@ Git restore tar bort ocommittade ändringar, git revert tar bort ändringar men 
 ## 5. Pull request
 Länk till din pull request (på ditt eget repo):
 https://github.com/Lexicon-RC/m5-dag09-git-grenar/commit/f73f4827794a5781ca910d30c93e2d05145eb007
-error: branch 'info-uppdatering' not found
+
+git branch -d info-uppdatering gav "error: branch 'info-uppdatering' not found"
 
 ## 6. Reflektion
 Vad är det värsta som kan hända om man kör `git push --force` på en gren som andra använder?
